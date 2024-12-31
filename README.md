@@ -1,3 +1,5 @@
+This notebook was written to solve a coursework assignment at the University of Edinburgh. The course is titled "Machine Learning and Pattern Recognition". It received a final mark of 81%.
+
 # CT_Scan_Prediction
 Background: In this assignment you will perform some preliminary analysis of a dataset from the UCI machine learning repository. Some features have been extracted from slices of CT medical scans. There is a regression task: attempt to guess the location of a slice in the body from features of the scan. A little more information about the data is available online2:
 https://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis
